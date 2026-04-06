@@ -1,0 +1,12 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+env/
+# Ignorar archivos auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+# Archivos raros 
+.DS_Store
